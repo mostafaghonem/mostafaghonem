@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mostafa Ghonem</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-- 📄 Know about me [https://bit.ly/3JLhCKD](https://bit.ly/3JLhCKD)
+- 📄 Know about me [https://bit.ly/3JLhCKD](https://bit.ly/3LYPFiW)
 - 📫 How to reach me: mostafaghonem90@yahoo.com
 
 <h3 align="left">Connect with me:</h3>
