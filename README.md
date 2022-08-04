@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ghonem</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h3 align="center">A passionate Developer from Egypt</h3>
 
 - 📫 How to reach me **mostafaghonem90@yahoo.com** 
 - 📄 Know about me [[https://bit.ly/3JLhCKD]](https://bit.ly/3LYPFiW)
