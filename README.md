@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mostafa Ghonem</h1>
-<h3 align="center">A passionate Developer from Egypt</h3>
+<h1 align="center">Hi 👋, there</h1>
+<h3 align="center">I'm Mostafa Ghonem , a self-taught passionate Developer from Egypt</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
