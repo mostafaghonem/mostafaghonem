@@ -28,9 +28,9 @@
        <a href="https://api.whatsapp.com/send?phone=201284109614" target="blank">
          <img align="center" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png" alt="mostafa-ghonem"height="38" width="38"/>
     </a>
-      <a href="https://www.upwork.com/freelancers/~01e13dab940c80828d" target="blank">
+<!--       <a href="https://www.upwork.com/freelancers/~01e13dab940c80828d" target="blank">
         <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="mostafa-ghonem" height="36" width="36"/>
-    </a>
+    </a> -->
 </p>
 
 <h3 align="left">Skills ⚡ :</h3>
