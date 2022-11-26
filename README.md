@@ -34,10 +34,15 @@
         <img align="center" src="https://camo.githubusercontent.com/4c080422a239ae85d1f73a5c92d4753674e1044e8dc058e034535abbfd34fa3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e" alt="mostafa-ghonem" height="30" width="120" /></a>
     
    <a href="https://api.whatsapp.com/send?phone=201284109614" target="blank">
-         <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="mostafa-ghonem" height="30" width="120"/></a>
+         <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="mostafa-ghonem" height="30" width="120"/></a>
+  
+  <a href="https://trailblazer.me/id/mostafaghonem" target="blank">
+         <img align="center" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="mostafa-ghonem" height="30" width="120"/></a>
+  
       
 <!--    <a href="https://www.upwork.com/freelancers/~01e13dab940c80828d" target="blank">
         <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-upwork-a-global-freelancing-platform-where-    professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="mostafa-ghonem" height="36" width="36"/></a> -->
+  
   
 </div>
 
