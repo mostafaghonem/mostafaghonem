@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">I'm Mostafa Ghonem , a self-taught passionate Developer from Egypt</h3>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
-</div>
+</div> -->
 
 ---
 
