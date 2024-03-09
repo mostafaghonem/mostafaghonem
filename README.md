@@ -28,13 +28,10 @@
 
 
 <a href="mailto:mostafaghonem90@gmail.com" target="blank">
-    <img align="center" src="https://camo.githubusercontent.com/60fe4987f985f80e5b2a8663ede1c1efbd9734f50ee3176c40449355b5be42c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5361792532304869212d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" alt="mostafaghonem9" height="30" width="120" /></a>
-
-<a href="https://twitter.com/mostafaghonem9" target="blank">
-    <img align="center" src="https://camo.githubusercontent.com/316553783a865ac3e1690d9f387380760ee06ea80594a4cbe798e2d8d892d668/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572" alt="mostafaghonem9" height="30" width="120" /></a>
+    <img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="mostafaghonem90@gmail.com" height="30" width="120" /></a>
   
   <a href="https://linkedin.com/in/mostafa-ghonem" target="blank">
-        <img align="center" src="https://camo.githubusercontent.com/4c080422a239ae85d1f73a5c92d4753674e1044e8dc058e034535abbfd34fa3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e" alt="mostafa-ghonem" height="30" width="120" /></a>
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="mostafa-ghonem" height="30" width="120" /></a>
     
    <a href="https://api.whatsapp.com/send?phone=201284109614" target="blank">
          <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="mostafa-ghonem" height="30" width="120"/></a>
