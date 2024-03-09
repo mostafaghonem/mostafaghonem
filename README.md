@@ -24,7 +24,7 @@
 - 📄 My Trailblazer https://trailblazer.me/id/mostafaghonem 
 
 <div align="left">
-  <h2> <img src="https://camo.githubusercontent.com/4a7b6937f206904ce1f01f844c951e88a55802144aff0f840f3c68f90912aa3d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37653936643939346632396233383866363366376161373766663262656137382f74656e6f722e676966" data-canonical-src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="30" width="30" data-target="animated-image.originalImage">Know more about me 👋</h2>
+  <h2>Know more about me 👋</h2>
 
 
 <a href="mailto:mostafaghonem90@gmail.com" target="blank">
