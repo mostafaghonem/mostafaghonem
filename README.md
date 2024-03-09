@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hello 👋, there</h1>
+<!--<h1 align="center">Hello 👋, there</h1>-->
 <h3 align="center">
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2C+i'm+Mostafa+Ghonem;Hi%2C+i'm+Developer" alt="Typing SVG" /></a> </h3>
 <!-- <h3 align="center">I'm Mostafa Ghonem , a self-taught passionate Developer from Egypt</h3> -->
@@ -20,8 +20,8 @@
 </P- -->
 
 
-- 📫 How to reach me **mostafaghonem90@gmail.com** 
-- 📄 My Trailblazer https://trailblazer.me/id/mostafaghonem 
+<!--- 📫 How to reach me **mostafaghonem90@gmail.com** 
+- 📄 My Trailblazer https://trailblazer.me/id/mostafaghonem -->
 
 <div align="left">
   <h2>Know more about me 👋</h2>
