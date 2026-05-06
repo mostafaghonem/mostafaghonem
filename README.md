@@ -13,8 +13,7 @@
                                                                                                                                               
   ### About Me                                                                                                                                
 
-  Senior Salesforce Developer & Consultant in **Cairo, Egypt** 🇪🇬 — enterprise implementations, integrations, and architecture across the MENA  
-  region.
+  Senior Salesforce Developer & Consultant in **Cairo, Egypt** 🇪🇬 — enterprise implementations, integrations, and architecture across the MENA region.
                                                                                                                                                 
   - ERP, QuickBooks & WhatsApp API integrations on Salesforce                                                                                 
   - Real Estate, Logistics & Sports industries                                                                                                
