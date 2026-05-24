@@ -1,4 +1,4 @@
-<div id="header" align="center">                                                                                                              
+<!-- <div id="header" align="center">                                                                                                              
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>                                                         
   </div>                                                                                                                                        
                                                                                                                                                 
@@ -20,7 +20,7 @@
   - Building full-stack apps with Vue 3, Node.js & PostgreSQL
                                                                                                                                                 
   ---
-                                                                                                                                                
+                                                                                                                                                 -->
   ### Reach Me                                                                                                                                
                                                                                                                                               
   <p>
